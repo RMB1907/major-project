@@ -1,0 +1,9 @@
+*.npy
+.ipynb_checkpoints/
+.gradio/
+__pycache__/
+TriplexFPP/code/backup.ipynb
+TriplexFPP/train
+TriplexFPP/train2
+TriplexFPP/input_example
+

@@ -1,0 +1,11 @@
+Index,Probability,Predicted Label
+1,0.8489,Triplex
+2,0.4905,Triplex
+3,0.9841,Triplex
+4,0.9978,Triplex
+5,0.8577,Triplex
+6,0.9978,Triplex
+7,0.7327,Triplex
+8,0.2419,Nontriplex
+9,0.9882,Triplex
+10,0.9932,Triplex
